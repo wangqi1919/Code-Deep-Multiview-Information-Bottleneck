@@ -10,4 +10,4 @@
 
 As you use this code for your exciting discoveries, please cite the paper below:
 
-> Qi Wang, Claire Boudreau, Qixing Luo, Pang-Ning Tan, and Jiayu Zhou. Deep Multi-view Information Bottleneck." In Proceedings of the 2019 SIAM International Conference on Data Mining
+> Qi Wang, Claire Boudreau, Qixing Luo, Pang-Ning Tan, and Jiayu Zhou. "Deep Multi-view Information Bottleneck." In Proceedings of the 2019 SIAM International Conference on Data Mining
